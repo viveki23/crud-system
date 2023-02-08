@@ -1,0 +1,1 @@
+note:-import database from 'db folder' to see proper function of this curd operation.
